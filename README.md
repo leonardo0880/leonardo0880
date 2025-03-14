@@ -1,4 +1,3 @@
 - 👋 Olá meu nome é Leonardo
-- 👀 Estou interessado em TI
-- 🌱 Atualmente no ensino médio
+- 👀 Cursando Ciência da Computação
 - 🌎 Curitiba PR
